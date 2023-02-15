@@ -1,0 +1,6 @@
+.stayprimitive {
+    width: 400px;
+    background-color: rgb(175, 0, 108);
+    border: 4px solid black;
+    border-radius: 10px;
+}
