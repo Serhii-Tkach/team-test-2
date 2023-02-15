@@ -3,3 +3,9 @@
     background-color: rgb(44, 255, 181);
     outline: 3px solid rgb(0, 31, 118);
 }
+
+.container_2 {
+    width: 900px;
+    background-color: aqua;
+    border: 7px solid tomato;
+}
