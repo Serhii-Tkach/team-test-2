@@ -1,0 +1,11 @@
+.container-bond {
+    width: 400px;
+    height: 400px;
+    background-color: green;
+    border: 5px solid black;
+   
+}
+.bond {
+    background-color: aqua;
+   font-size: 36px;
+}
